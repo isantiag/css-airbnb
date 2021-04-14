@@ -1,8 +1,5 @@
 # Info
-This repo was one of the first assignment from GA to practice HTML and CSS.
-
-
----
+Assignment from GA to practice HTML and CSS.
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
