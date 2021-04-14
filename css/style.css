@@ -18,8 +18,9 @@ td {
   text-align: center;
   color: white;
   font-size: 20px;
-  padding:0px;
+  margin:0 20px;
 }
+
 td.space{
   margim-right: 16px;
 }
